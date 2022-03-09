@@ -45,3 +45,9 @@ sometimes you need something special
 
 # fullscreen terminal on F1
 guake or kitty ftw
+
+# zram memory compression and ramdisk
+make the most from your memory and learn how to do high performance ephemeral file operations
+
+# nohang out of memory freeze prevention
+soon to be replaced by a systemd thing
