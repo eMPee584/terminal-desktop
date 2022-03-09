@@ -54,3 +54,6 @@ soon to be replaced by a systemd thing
 
 # libcaca text mode graphics utilities
 your own ascii art fireplace
+
+# mpd + ncmpcpp music library player service
+the ultimate nerd jukebox
