@@ -51,3 +51,6 @@ make the most from your memory and learn how to do high performance ephemeral fi
 
 # nohang out of memory freeze prevention
 soon to be replaced by a systemd thing
+
+# libcaca text mode graphics utilities
+your own ascii art fireplace
