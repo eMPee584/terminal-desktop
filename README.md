@@ -57,3 +57,4 @@ your own ascii art fireplace
 
 # mpd + ncmpcpp music library player service
 the ultimate nerd jukebox
+(add easyeffects for extra bass juice)
