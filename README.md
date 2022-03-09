@@ -1,15 +1,14 @@
 # terminal-desktop
 a collection of powerful system utility configurations
-
 starring the main players:
 
 # tmux terminal multiplexer
-the tool that binds it all together
-modular comfort terminal desktop config
+- the tool that binds it all together
+- modular comfort terminal desktop config
 
 # ranger file manager
-the most important piece of gear for any serious system admin.
-on steroids.
+- the most important piece of gear for any serious system admin.
+- on steroids.
 
 # tig git TUI
 git wizardry
