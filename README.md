@@ -34,7 +34,10 @@ it can look cool too
 # ncdu
 disk usage analyser
 
-# ripgrep fdfind
+# pixd
+visualize entropy and discern file structures in a blink
+
+# ripgrep & fdfind
 find things 
 
 # dictd dictionary service
