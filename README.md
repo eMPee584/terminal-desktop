@@ -1,6 +1,6 @@
-# terminal-desktop
+# terminal-desktop guide & conf
 a collection of powerful system utility configurations
-starring the main players:
+starring the main actors:
 
 # tmux terminal multiplexer
 - the tool that binds it all together
@@ -23,7 +23,8 @@ advanced scripting power
 live coding with python
 
 # vim text editor
-premium text editing
+- premium text editing
+- eternal persistent history and undo tree
 
 # elinks text browser
 the internet can answer questions in 15 seconds or less
