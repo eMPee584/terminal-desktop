@@ -1,4 +1,4 @@
-# terminal-desktop guide & conf
+# ninja terminal-desktop guide & conf dojo
 a collection of powerful system utility configurations
 starring the main actors:
 
