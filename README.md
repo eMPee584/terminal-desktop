@@ -27,10 +27,16 @@ live coding with python
 - eternal persistent history and undo tree
 
 # elinks text browser
-the internet can answer questions in 15 seconds or less
+<details>
+  <summary>the internet can answer questions in 15 seconds or less</summary>
+  with no Javascript and with less memory usage than all them blink engines.
+</details>
 
 # less pager
-it can look cool too
+<details>
+  <summary>it can look cool too</summary>
+  and so can your man pages
+</details>
 
 # ncdu
 disk usage analyser
