@@ -38,14 +38,17 @@ live coding with python
   and so can your man pages
 </details>
 
+## lnav log file navigator
+get on top of your system logs
+
 ## ncdu
 disk usage analyser
 
-## pixd
-visualize entropy and discern file structures in a blink
+## pixd binary file visualizer
+guesstimate entropy and discern file structures in a blink
 
-## ripgrep & fdfind
-find things 
+## ripgrep, fdfind & plocate
+find things like a boss
 
 ## dictd dictionary service
 for very little memory you get a lot of dictionary
