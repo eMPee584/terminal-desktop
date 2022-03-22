@@ -2,6 +2,8 @@
 a collection of powerful system utility configurations
 starring the main actors:
 
+FIXME: configuration files yet to transfer from https://github.com/fsfw-dresden/usb-live-linux/tree/master/features/ (soon)
+
 ## tmux terminal multiplexer
 - the tool that binds it all together
 - modular comfort terminal desktop config
@@ -50,11 +52,11 @@ guesstimate entropy and discern file structures in a blink
 ## ripgrep, fdfind & plocate
 find things like a boss
 
+## speedometer + pipemeter
+sense the speed, consider the metrix
+
 ## dictd dictionary service
 for very little memory you get a lot of dictionary
-
-## nohang out of memory freeze prevention
-soon to be replaced by a systemd thing
 
 ## libcaca text mode graphics utilities
 your own ascii art fireplace & more
@@ -73,3 +75,5 @@ guake or kitty ftw
 ## zram memory compression and ramdisk
 make the most from your memory and learn how to do high performance ephemeral file operations
 
+## nohang out of memory freeze prevention
+soon to be replaced by a systemd thing
